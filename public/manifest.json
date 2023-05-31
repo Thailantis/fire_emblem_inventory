@@ -1,0 +1,20 @@
+{
+    "name": "Fire Emblem Inventory",
+    "short_name": "FE Inventory",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "white",
+    "background_color": "white",
+    "icons": [
+        {
+            "src": "fire-emblem-logo.png",
+            "sizes": "190x190",
+            "types": "image/png"
+        },
+        {
+            "src": "fire-emblem-logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
+}
